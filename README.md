@@ -8,7 +8,7 @@ Here's a little about me...
 
 - 👯 I’m happy to collaborate on [Twitch](https://www.twitch.tv/macjabeth)
 
-- 🤝 I happily encourage open source collaboration on [Showbunny](https://github.com/macjabeth/showbunny)
+- 🤝 I happily encourage open source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
 
 - 👨‍💻 All of my projects are available at [https://macjabeth.com/](https://macjabeth.com/)
 
@@ -140,10 +140,10 @@ Here's a little about me...
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=macjabeth&show_icons=true&locale=en" alt="macjabeth" />
 </p>
 
-### Support
+<!-- ### Support
 
 <p>
   <a href="https://www.buymeacoffee.com/macjabeth">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="macjabeth" />
   </a>
-</p>
+</p> -->
