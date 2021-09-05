@@ -4,7 +4,7 @@ Here's a little about me...
 
 - 🔭 I work at [Northwestern Mutual](https://www.northwesternmutual.com/)
 
-- 🌱 I’m currently learning **the mainframe and Next.js**
+- 🌱 I’m currently learning **vanilla web development**
 
 - 👯 I’m happy to collaborate on [Twitch](https://www.twitch.tv/macjabeth)
 
