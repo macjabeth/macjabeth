@@ -6,7 +6,7 @@ Here's a little about me...
 
 - 🌱 I’m currently learning **vanilla web development**
 
-- 👯 I’m happy to collaborate on [Twitch](https://www.twitch.tv/macjabeth)
+- 👯 I stream live coding every weekend on [Twitch](https://www.twitch.tv/macjabeth)
 
 - 🤝 I happily encourage open source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
 
