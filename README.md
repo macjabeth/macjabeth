@@ -1,4 +1,4 @@
-# Lo there! 👋 I'm Jonathan. I am passionate about learning new technologies and teaching others to be better developers.
+# Lo there! 👋 I'm Jonathan. I enjoy learning new technologies and teaching others to be better developers.
 
 Here's a little about me...
 
