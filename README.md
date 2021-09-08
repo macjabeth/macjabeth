@@ -10,7 +10,7 @@ Here's a little about me...
 
 - 🤝 I happily encourage open source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
 
-- 👨‍💻 All of my projects are available at [https://macjabeth.com/](https://macjabeth.com/)
+- 👨‍💻 All of my projects are available at [https://macjabeth.com/projects](https://macjabeth.com/projects)
 
 - 📝 I regularly write articles on [https://macjabeth.com/blog](https://macjabeth.com/blog)
 
