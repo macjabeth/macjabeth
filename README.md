@@ -1,4 +1,4 @@
-# Lo there! 👋 I'm Jonathan. I enjoy learning new technologies and teaching others to be better developers.
+# Hi there! 👋 I'm Jonathan. I enjoy learning new technologies and teaching others to be better developers.
 
 Here's a little about me...
 
@@ -8,7 +8,7 @@ Here's a little about me...
 
 - 👯 I stream live coding every weekend on [Twitch](https://www.twitch.tv/macjabeth)
 
-- 🤝 I happily encourage open source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
+- 🤝 I happily encourage open-source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
 
 - 👨‍💻 All of my projects are available at [https://macjabeth.com/projects](https://macjabeth.com/projects)
 
