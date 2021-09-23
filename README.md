@@ -4,7 +4,7 @@ Here's a little about me...
 
 - 🔭 I work at [Northwestern Mutual](https://www.northwesternmutual.com/)
 
-- 🌱 I’m currently learning **Web Components** because vanilla is my flavour
+- 🌱 I’m currently learning [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) because vanilla is my flavour
 
 - 👯 I stream live coding every weekend on [Twitch](https://www.twitch.tv/macjabeth)
 
