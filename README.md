@@ -6,7 +6,7 @@ Here's a little about me...
 
 - 🌱 I’m currently learning [C/C++](https://cplusplus.com/) because solid foundations are important
 
-- 👯 I stream live coding every weekend on [Twitch](https://www.twitch.tv/macjabeth)
+- 👯 I stream live coding sometimes on [Twitch](https://www.twitch.tv/macjabeth)
 
 - 🤝 I happily encourage open-source contributions to [Showbunny](https://github.com/macjabeth/showbunny)
 
